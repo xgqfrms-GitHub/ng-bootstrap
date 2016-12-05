@@ -1,7 +1,11 @@
 # ng-bootstrap & bootstrap v4.a5 & Angular 2
 
+## udemy 
 
 https://www.udemy.com/ultimate-angular-2/learn/v4/t/lecture/5839548?start=15
+
+
+## docs & api
 
 http://www.bootstrap-tutorials.com/bootstrap4tutorials/Bootstrap-4-Utilities-tutorials.php 
 
